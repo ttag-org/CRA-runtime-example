@@ -1,7 +1,7 @@
 {
   "main.css": "/CRA-runtime-example/static/css/main.b9b7dd3f.chunk.css",
-  "main.js": "/CRA-runtime-example/static/js/main.52bff357.chunk.js",
-  "main.js.map": "/CRA-runtime-example/static/js/main.52bff357.chunk.js.map",
+  "main.js": "/CRA-runtime-example/static/js/main.9d56913f.chunk.js",
+  "main.js.map": "/CRA-runtime-example/static/js/main.9d56913f.chunk.js.map",
   "static/js/1.f99ecf0d.chunk.js": "/CRA-runtime-example/static/js/1.f99ecf0d.chunk.js",
   "static/js/1.f99ecf0d.chunk.js.map": "/CRA-runtime-example/static/js/1.f99ecf0d.chunk.js.map",
   "runtime~main.js": "/CRA-runtime-example/static/js/runtime~main.8252ce25.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/CRA-runtime-example/static/media/logo.5d5d9eef.svg",
   "static/css/main.b9b7dd3f.chunk.css.map": "/CRA-runtime-example/static/css/main.b9b7dd3f.chunk.css.map",
   "index.html": "/CRA-runtime-example/index.html",
-  "precache-manifest.8ccb913a08cb9482c592054fcb3b734a.js": "/CRA-runtime-example/precache-manifest.8ccb913a08cb9482c592054fcb3b734a.js",
+  "precache-manifest.6222a2bae681d3ce102277991a557176.js": "/CRA-runtime-example/precache-manifest.6222a2bae681d3ce102277991a557176.js",
   "service-worker.js": "/CRA-runtime-example/service-worker.js"
 }

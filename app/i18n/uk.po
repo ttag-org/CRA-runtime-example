@@ -21,4 +21,4 @@ msgstr "Змініть мову"
 
 #: src/App.js:47
 msgid "Learn ttag"
-msgstr "Вивчи ttag"
+msgstr "Вивчити ttag"

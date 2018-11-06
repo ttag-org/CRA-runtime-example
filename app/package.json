@@ -2,6 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "repositoryHome": "https://github.com/ttag-org/CRA-runtime-example",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",

@@ -14,8 +14,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "update-uk": "ttag update i18n/uk.po src/",
-    "po2json": "ttag po2json i18n/uk.po > i18n/uk.po.json",
+    "update": "ttag update i18n/uk.po src/ && ttag update i18n/ru.po src/",
+    "po2json": "ttag po2json i18n/uk.po > i18n/uk.po.json && ttag po2json i18n/ru.po > i18n/ru.po.json",
     "predeploy": "npm run po2json && npm run build",
     "deploy": "gh-pages -d build"
   },

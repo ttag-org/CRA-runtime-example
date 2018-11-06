@@ -15,7 +15,7 @@
     "eject": "react-scripts eject",
     "update-uk": "ttag update i18n/uk.po src/",
     "po2json": "ttag po2json i18n/uk.po > i18n/uk.po.json",
-    "predeploy": "npm run build",
+    "predeploy": "npm run po2json && npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

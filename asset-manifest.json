@@ -1,0 +1,14 @@
+{
+  "main.css": "/CRA-runtime-example/static/css/main.c3849439.chunk.css",
+  "main.js": "/CRA-runtime-example/static/js/main.4fecc8c1.chunk.js",
+  "main.js.map": "/CRA-runtime-example/static/js/main.4fecc8c1.chunk.js.map",
+  "static/js/1.f99ecf0d.chunk.js": "/CRA-runtime-example/static/js/1.f99ecf0d.chunk.js",
+  "static/js/1.f99ecf0d.chunk.js.map": "/CRA-runtime-example/static/js/1.f99ecf0d.chunk.js.map",
+  "runtime~main.js": "/CRA-runtime-example/static/js/runtime~main.8252ce25.js",
+  "runtime~main.js.map": "/CRA-runtime-example/static/js/runtime~main.8252ce25.js.map",
+  "static/media/logo.svg": "/CRA-runtime-example/static/media/logo.5d5d9eef.svg",
+  "static/css/main.c3849439.chunk.css.map": "/CRA-runtime-example/static/css/main.c3849439.chunk.css.map",
+  "index.html": "/CRA-runtime-example/index.html",
+  "precache-manifest.759e14f79e7f4afe775df7c86becfc1a.js": "/CRA-runtime-example/precache-manifest.759e14f79e7f4afe775df7c86becfc1a.js",
+  "service-worker.js": "/CRA-runtime-example/service-worker.js"
+}
